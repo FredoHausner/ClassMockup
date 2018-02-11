@@ -1,2 +1,2 @@
 # ClassMockup
-Mockup for class project.
+This is my Website for the MockUp we had to copy.
